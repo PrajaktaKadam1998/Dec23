@@ -4,3 +4,5 @@ It tracks/manages the changes wit version.
 
 Github is a website that hosts repositories.
 
+You can use git freely on your local machine.
+
