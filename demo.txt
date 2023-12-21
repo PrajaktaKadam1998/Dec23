@@ -4,3 +4,4 @@ It tracks/manages the changes wit version.
 
 Github is a website that hosts repositories.
 
+Git is an open source.
